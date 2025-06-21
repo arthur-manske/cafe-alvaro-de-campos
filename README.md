@@ -11,6 +11,9 @@ A proposta é bem simples em cerne, um E-Commerce para uma loja física fictíci
 - Páginas de produtos, uma por produto.
 Os estilos são dividos em cinco arquivos, sendo um de estilização genérica e global e os demais para classes e seções específicas de cada página.
 
+## Licenciamento, Distribuição, Contribuição
+Os termos de licenciamento e legalidade a se seguir estão em totalidade descritos (utilização, distrubuição, contribuição e outros) pela licença [BSD 3-Clause](./LICENSE).
+
 # Racionalizacao
 Pessoalmente, sempre fui alguém que consumiu muito café e, ao mesmo tempo, um grande admirador de poetas e do exagero dos sentimentos, pois, mesmo em total abstinência de um Eu-Lírico, minhas emoções inevitavelmente tornam-se uma grande maré trágica e dramática. Resolvi então divagar sobre quais poetas ou autores literários poderiam ser homenageados neste trabalho, uma vez que minha amada bebida, meu maior consolo, também estava presente; deveria eu, portanto, homenagear algo à altura no nome desta proposta de E-Commerce.
 
