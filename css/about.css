@@ -1,0 +1,46 @@
+main {
+    padding: 2rem 5%;
+    background-color: #f5f0e6;
+    color: #3D2C24;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+}
+
+main h2, main h3 {
+    color: #8B5E3C;
+    margin-top: 2rem;
+    font-weight: 700;
+}
+
+main h2 {
+    font-size: 2rem;
+}
+
+main h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+main p {
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+main ul {
+    margin-left: 1.5rem;
+    list-style-type: disc;
+}
+
+main ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+}
+
+main a {
+    color: #8B5E3C;
+    text-decoration: underline;
+}
+
+main a:hover {
+    color: #3D2C24;
+}

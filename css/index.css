@@ -12,6 +12,10 @@
     align-items:     center;
 }
 
+.banner-text a {
+    background-color: #8B5E3C;
+}
+
 .banner-text h2 {
     font-size:     2.5rem;
     margin-bottom: 0.5rem;
